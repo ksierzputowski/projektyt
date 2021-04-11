@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/youtube/views/available_products/view.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/models/Catalog.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/libs/Database.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/views/katalogi/index.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/views/catalogs/view.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/libs/View.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/controllers/available_products.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/controllers/catalogs.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/views/products/view.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/views/header.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/views/footer.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/controllers/products.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/libs/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/models/Product.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/controllers/katalogi.php</file>
+        </group>
+    </open-files>
+</project-private>

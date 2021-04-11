@@ -1,0 +1,17 @@
+body {
+    background: wheat;
+}
+
+#header {
+    padding: 25px;
+    background: pink;
+}
+
+#content {
+    padding: 20px;
+    background: #fff;
+}
+#footer {
+    padding: 20px;
+    background: WHITE;
+}
