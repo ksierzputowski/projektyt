@@ -1,0 +1,171 @@
+
+body {
+    background: whitesmoke;
+}
+
+.header {
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+
+
+}
+
+#content {
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    background: #fff;
+}
+#footer {
+    padding: 20px;
+    background: WHITE;
+}
+
+
+#photokatalogi {
+    height: 520px;
+    width: auto;
+    background-image: url('http://localhost/youtube/images/zdjecie1.jpg');
+    background-size: 30%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.p  {
+    color: maroon;
+    font-family: courier;
+    font-size: 160%;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+.s  {
+    color: maroon;
+    font-family: courier;
+    font-size: 180%;
+    padding: 0;
+}
+
+.c {
+    color: #1Ee;
+    font-family: 'Brush Script MT';
+    font-size: 170%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#head1 {
+
+    background-image: url('http://localhost/youtube/images/33.gif');
+
+}
+
+.navbar-nav {
+     display: -webkit-box;
+}
+
+ .navbar {
+position: inherit;
+display: block;
+}
+
+
+
+#productdescription {
+      padding-top: 75px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    font-family: monospace;
+    color: darkgray;
+}
+
+#katalogs_product {
+    color: cadetblue;
+    text-decoration: dashed;
+    font-family: monospace;
+    
+}
+#avaiable_prod {
+    font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 98%;
+ 
+    
+}
+#avaiable_prod td, #avaiable_prod th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#avaiable_prod tr:nth-child(even){background-color: gray;}
+
+#avaiable_prod tr:hover {background-color: #ddd;}
+
+#avaiable_prod th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #6973a6;
+  color: white;
+}
+
+
+.form_view {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+
+input[type=submit] {
+  width: 10%;
+  background-color: cornflowerblue;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=reset] {
+  width: 10%;
+  background-color: darkred;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+#col_form_placing {
+    
+    display: inline-table;
+}
+
+
+
+#row_form_placing {
+    display: inline-table;
+    
+    margin: 25px;
+}
+

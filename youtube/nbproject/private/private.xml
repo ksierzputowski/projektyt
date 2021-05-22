@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/youtube/models/LoginModel.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/libs/Database.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/views/catalogs/view.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/controllers/index.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/libs/View.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/public/css/default.css</file>
+            <file>file:/C:/xampp/htdocs/youtube/controllers/catalogs.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/models/SortProductModel.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/views/index/index.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/views/products/view.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/controllers/login.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/models/testModel.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/controllers/sortProduct.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/controllers/products.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/libs/Model.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/libs/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/models/Product.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/views/sortProduct/view.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/controllers/insert.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/models/InsertModel.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/views/insert/index.php</file>
+            <file>file:/C:/xampp/htdocs/youtube/models/ShowProducts.php</file>
+        </group>
+    </open-files>
+</project-private>
